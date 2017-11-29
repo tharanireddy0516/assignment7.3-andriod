@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ImageView</string>
+    <string name="click_to_open_gallery">Click to Open Gallery</string>
+</resources>
